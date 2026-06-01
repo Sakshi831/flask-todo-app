@@ -1,0 +1,7 @@
+{
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true
+}
